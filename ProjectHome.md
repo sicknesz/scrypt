@@ -1,0 +1,1 @@
+Code for the scrypt key derivation function and the scrypt file encryption utility.
